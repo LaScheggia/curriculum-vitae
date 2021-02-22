@@ -1,0 +1,31 @@
+body{
+  width: 50%;
+  margin: auto;
+}
+
+header{
+  background-color: #EDEDED;
+  text-align: center;
+  border-bottom: 2px solid #CF8A04;
+}
+
+main{
+  margin-left: 15px;
+
+}
+
+section h2{
+  color: #CF8A04;
+}
+
+.item h3{
+  font-style: italic;
+}
+
+hr{
+  border-color: #CF8A04;
+}
+
+footer p{
+  font-size: 12px;
+}
